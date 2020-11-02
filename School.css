@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+}
+
+.divs{
+    padding-bottom: 2em;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 3em;
+    padding-top: 7px;
+    height: wrap;
+    background-color: rgb(70, 130, 200);
+}
+
+p{
+    font-weight: bold;
+    margin-left: 5em;
+    margin-right: 5em;
+}

@@ -1,0 +1,80 @@
+.inleiding{
+    font-family: sans-serif;
+    margin-top: 3em;
+    padding-top: 7px;
+    height: wrap;
+    background-color: rgb(70, 130, 200);
+}
+
+h2{
+    text-align: center;
+}
+
+.hobbys{
+    font-family: sans-serif;
+    margin-top: 3em;
+    padding-top: 7px;
+    height: wrap;
+    background-color: rgb(70, 130, 200);
+}
+
+.vooropleidingen{
+    font-family: sans-serif;
+    margin-top: 3em;
+    padding-top: 7px;
+    height: wrap;
+    background-color: rgb(70, 130, 200);
+}
+
+.werk{
+    font-family: sans-serif;
+    margin-top: 3em;
+    padding-top: 7px;
+    height: wrap;
+    background-color: rgb(70, 130, 200);
+}
+
+.pdiv{
+    width: 40em;
+    position: absolute;
+}
+
+p{
+    margin-right: 0;
+    font-weight: bold;
+    margin-left: 2em;
+    padding-bottom: 1em;
+}
+
+.white{
+    margin-bottom: 3em;
+    width: 25%;
+    margin-left: 45em;
+}
+
+#piano{
+    margin-left: 3em;
+    margin-right: 3em;
+    float: left;
+    margin-bottom: 3em;
+    width: 40%;
+}
+
+#pc{
+    margin-bottom: 3em;
+    margin-left: 10em;
+    width: 70%;
+}
+
+#lab{
+    width: 40%;
+}
+
+.sub{
+    margin-right: 3em;
+}
+
+#chrysanten{
+    margin-left: 20em;
+    margin-bottom: 3em;
+}

@@ -1,0 +1,44 @@
+body{
+    background-color: #ceecf2;
+    margin: auto;
+    padding: 0;
+    width: 60%;
+    align-content: center;
+}
+
+header{
+    font-family: sans-serif;
+    margin-top: 3em;
+    padding-top: 7px;
+    height: 5em;
+    text-align: center;
+    background-color: #49c3de;
+}
+
+h1{
+    margin-left: 2em;
+    float: left;
+}
+
+ul {
+    font-weight: bold;
+    list-style-type: none;
+    overflow: hidden;
+  }
+  
+    li {
+    margin-top: 0.9em;
+    margin-right: 2em;
+    float: right;
+  }
+  
+  li a {
+    color: black;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: white;
+  }
